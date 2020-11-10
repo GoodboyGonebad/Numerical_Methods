@@ -1,2 +1,2 @@
 # Numerical_Methods
-PYU33C01 | Junior Sophister Astrophysics TCD | Prof Stefan Hutzler
+Exercises completed as part of the numerical methods component of Computer Simulation I.
